@@ -13,3 +13,4 @@ Beberapa saran (good first issue!):
 
 - Buat GUI untuk game ini
 - Tambahkan tutorial agar semakin jelas
+- Lengkapi dokumentasi kode
