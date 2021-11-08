@@ -86,4 +86,4 @@ while (play):
 
     print()
 
-print("Bye-bye!")
+input("Bye-bye! Tekan enter untuk keluar...")
