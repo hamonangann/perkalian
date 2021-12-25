@@ -14,7 +14,6 @@ while (play):
         level = 1
         left = 1
         right = 1
-        level = 1
         while (lives > 0):
             choice = random.choice(['tambah_kiri', 'tambah_kanan'])
             if (choice == 'tambah_kiri'):
