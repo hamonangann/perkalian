@@ -5,7 +5,6 @@ print("Selamat datang di perkalian.py")
 play = True
 while (play):
     print("1. Main!")
-    print("2. Trik rahasia!")
     print("3. Exit")
     mode = input("Pilih (1-3): ")
 
@@ -56,7 +55,7 @@ while (play):
         print("Game selesai. Selamat, kamu sampai level", level, "!")
 
     elif (mode == "2"):
-        print(20*('='), "TRIK RAHASIA", 20*('='))
+        print(10*('='), "SELAMAT ANDA MENEMUKAN TRIK RAHASIA", 10*('='))
         print("Rahasia game ini (dan juga perkalian pada dunia nyata): perkalian adalah penjumlahan berulang!")
         print("Sebagai contoh, 3 x 4 = 4 + 4 + 4 (4-nya ada 3) = 12. Bisa juga 3 x 4 = 3 + 3 + 3 + 3 (3-nya ada 4) = 12")
         print()
